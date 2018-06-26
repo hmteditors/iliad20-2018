@@ -149,7 +149,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001:20.114</p>
                       </div>
                       <div n="comment">
-                          <p><persName n="urn:cite2:hmt:pers:pers16">Αρισταρχος</persName> άμυδις στήσασα</p>
+                          <p><persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>Αριστ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> άμυδις στήσασα</p>
                       </div>
                     </div>
                       <div n="9_6" type="scholion">
