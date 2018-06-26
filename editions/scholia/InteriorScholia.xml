@@ -36,7 +36,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001:20.4</p>
                       </div>
                       <div n="comment">
-                          <p>καὶ ὅτι ἀντι του <q><persName n="urn:cite2:hmt:pers:pers659">Θεμιστί·</persName></q></p>
+                          <p>καὶ ὅτι ἀντι του <q><persName n="urn:cite2:hmt:pers:pers659">Θεμιστί-</persName></q></p>
                       </div>
                   </div>
 
@@ -48,7 +48,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001:20.4</p>
                       </div>
                       <div n="comment">
-                          <p>ουτος δια τοῦ <waw>Ϊ</waw> τὸ <q>ἰδύιῃσι</q> και τέλειον τὸ ποίησε:</p>
+                          <p>ουτος δια τοῦ <rs type="waw">Ϊ</rs> τὸ <q>ἰδύιῃσι</q> και τέλειον τὸ ποίησε:</p>
                       </div>
                   </div>
                   <div n="3_1" type="scholion">
