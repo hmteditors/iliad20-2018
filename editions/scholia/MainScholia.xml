@@ -915,6 +915,58 @@
                                           </p>
                                     </div>
                               </div>
+                              <div n="264v_5" type="scholion">
+                                    <div n="lemma">
+                                          <p></p>
+                                    </div>
+                                    <div n="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001:20.234</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p>
+                                            ἡ διπλῆ ὅτι ἐναντιοῦται τοῖς νεωτέροις οὐ γὰρ διέρωτα τὸν <persName n="urn:cite2:hmt:pers:pers180">Γανυμήδην</persName> ὑπο <persName n="urn:cite2:hmt:pers:pers8">Διὸς</persName> ἀνηρπᾶσθαι ἀλλ' ὑπο τῶν θεῶν ἵνα οἱνοχοῇ τῷ <persName n="urn:cite2:hmt:pers:pers8">Διῒ</persName> δια το κάλλος καὶ ὅτι ὁ και περισσός⁑
+                                          </p>
+                                    </div>
+                              </div>
+                              <div n="264v_6" type="scholion">
+                                    <div n="lemma">
+                                          <p>καλλεος εἴνεκα.</p>
+                                    </div>
+                                    <div n="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001:20.235</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p>
+                                            ο αστερίσκος ὅτι τοῦτον γράφουσι τὸν στίχον καὶ εν τῇ <title><ref type="urn">urn:cts:greekit:tlg0012.tlg001</ref><choice><abbr>Οδ</abbr><expan>Ὀδυσσείᾳ</expan></choice></title> ἐπι τοῦ Κλειτοῦ οὐ δεόντως⁑
+                                          </p>
+                                    </div>
+                              </div>
+                              <div n="264v_7" type="scholion">
+                                    <div n="lemma">
+                                          <p>κάλλεος εἴνεκα</p>
+                                    </div>
+                                    <div n="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001:20.235</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p>
+                                            καὶ <choice><abbr>τουτ</abbr><expan>τοῦτον</expan></choice> ὁμοίως ἢ γὰρ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.234</ref><q>ἀνηρείψαντο</q></cit> <q>κάλλεος εἴνεκα οἷο</q> ἢ <q>ἵνα ἀθανάτοισι μετείῃ</q>⁑
+                                          </p>
+                                    </div>
+                              </div>
+                              <div n="264v_8" type="scholion">
+                                    <div n="lemma">
+                                          <p>επέων δὲ πολὺς νομὸς.</p>
+                                    </div>
+                                    <div n="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001:20.249</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p>
+                                            ὀξυτόνος ἵνα σημαίνηται ὡς ἐν τῇ συνηθεία ἡ νέμεσις τοῦτο γὰρ ἐμφάσεως μειζωνος ἐστι σημαντικόν⁑
+                                          </p>
+                                    </div>
+                              </div>
                 </body>
             </text>
         </group>
