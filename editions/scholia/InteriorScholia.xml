@@ -149,9 +149,21 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001:20.170</p>
                       </div>
                       <div n="comment">
-                          <p>γράφεται ἀμφοτέρωσε ἔν τισι οὺ φαύλως ⁑⁑ </p>
+                          <p>γράφεται ἀμφοτέρωσε ἔν τισι οὺ φαύλως ⁑⁑</p>
                       </div>
                   </div>
+                  <div n="264r_1" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.211</p>
+                      </div>
+                      <div n="comment">
+                          <p>καὶ τὸ σήμερον ὀμοιως τοῖς <choice><abbr>προκειμεν</abbr><expan>προκείμενοισ</expan></choice></p>
+                      </div>
+                  </div>
+
                 </body>
             </text>
         </group>

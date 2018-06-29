@@ -152,6 +152,28 @@
                 <p>σίντης</p>
             </div>
         </div>
+        <div n="264r_1" type="scholion">
+            <div n="lemma">
+                <p></p>
+            </div>
+            <div n="ref">
+                <p>urn:cts:greekLit:tlg0012.tlg001:20.218</p>
+            </div>
+            <div n="comment">
+                <p>πολυπίδακου</p>
+            </div>
+        </div>
+        <div n="264r_2" type="scholion">
+            <div n="lemma">
+                <p></p>
+            </div>
+            <div n="ref">
+                <p>urn:cts:greekLit:tlg0012.tlg001:20.221</p>
+            </div>
+            <div n="comment">
+                <p>τρὶς, <choice><abbr>χιλ</abbr><expan>χίλιαι</expan></choice></p>
+            </div>
+        </div>
 
                 </body>
             </text>
