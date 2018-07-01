@@ -346,10 +346,71 @@
                             </p>
                           </div>
                       </div>
-
-
-
-
+                      <div n="265r_1" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.255</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                              <choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> <persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>Αρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> αλλοι δὲ <q>πολλά <choice><sic>τι</sic><corr>τ'</corr></choice> εόντα ταδ' οὐκί</q>⁑
+                            </p>
+                          </div>
+                      </div>
+                      <div n="265r_2" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.260</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                              ὅτι ἀντι τοῦ <q>ἤχασε</q> καὶ οὐ διεκόπη⁑
+                            </p>
+                          </div>
+                      </div>
+                      <div n="265r_3" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.261</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                              έξω ἀνέστεινεν ἑαὺτοῦ
+                            </p>
+                          </div>
+                      </div>
+                      <div n="265r_4" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.263</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                              <persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>Ἀρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> ἕξω τοῦ <rs type="waw">ϊ</rs> <q>ῥέα</q>⁑
+                            </p>
+                          </div>
+                      </div>
+                      <div n="265r_5" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.265</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                              ἔν τισιν <q>ἔργα</q>⁑
+                            </p>
+                          </div>
+                      </div>
                 </body>
             </text>
         </group>

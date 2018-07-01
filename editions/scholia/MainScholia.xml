@@ -979,6 +979,90 @@
                                           </p>
                                     </div>
                               </div>
+                              <div n="265r_1" type="scholion">
+                                    <div n="lemma">
+                                          <p>‡ πολλὰ τά τε καὶ οὐκί-</p>
+                                    </div>
+                                    <div n="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001:20.255</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> <persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>Ἀρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> <q>πολλὰ τά τε καὶ <choice><sic>οὐκί</sic><corr>οὐκὶ</corr></choice></q> τά τε ταῖς ἀληθείαις ὄντα καὶ μή τὰ δε φαυλότερα τῶν ἀντιγράφων ἔπεα ἔχειν τοῦτεστιν ἀληθῆ⁑
+                                          </p>
+                                    </div>
+                              </div>
+                              <div n="265r_2" type="scholion">
+                                    <div n="lemma">
+                                          <p>ἧ ρα καὶ ἐν δινῷ σάκει</p>
+                                    </div>
+                                    <div n="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001:20.259</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> ἡ <persName n="urn:cite2:hmt:pers:pers16">Ἀριστάρχου</persName> διαιρετέον τὸ <q>σάκεϊ</q> καὶ Ϊακῶς τὸ <q>ἔλασσε</q> καὶ τὸ <q>δινῶ</q> δὲ ἔξῳ τοῦ <rs type="waw">ε</rs> ἀπο τοῦ δινεῖσθαι δινωτην φορέουσα⁑
+                                          </p>
+                                    </div>
+                              </div>
+                              <div n="265r_3" type="scholion">
+                                    <div n="lemma">
+                                          <p>ἀνδράσι γε θνητοῖς-</p>
+                                    </div>
+                                    <div n="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001:20.266</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p>προς τὴν ἑξῆς ἀθέτησιν ἄτρωτα γὰρ καὶ ἄθλαστα τὰ Ἡφαιστότευκτα⁑
+                                          </p>
+                                    </div>
+                              </div>
+                              <div n="265r_4" type="scholion">
+                                    <div n="lemma">
+                                          <p>ἀλλα δύω μὲν ἔλασσε-</p>
+                                    </div>
+                                    <div n="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001:20.269-20.272</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p>ἀθετοῦνται στίχοι τέσσαρες ὅτι διεσκευασμένοι εἰσὶν ὑπό τινος τῶν βουλομένων πρόβλημα ποιεῖν μάχεται δὲ σαφῶς τοῖς γνησίοις ἄτρωτα γὰρ τα Ἡφαιστότευκτα συνίσταται ἵνα δὲ μὴ δοκῇ λύσεως τί εἰρηκέναι καὶ δια <choice><abbr>τουτ</abbr><expan>τούτου</expan></choice> ἡθετηκέναι φησὶν ὅτι τῆς χρυσῆς πτύχης πρώτης κατα τὴν ἐπιφάνειαν κειμένης νοητέον τὸ δόρυ τῆς πλείονος ορμῆς ἐγκοπὴν εἰληφέναι διακεκόφθαι μέντοι τὸ σακος ἕως τῆς τρίτης πτυχῆς ὃν τρόπον ἐπι τῆς πτυχῆς <persName n="urn:cite2:hmt:pers:pers119">Μενελάου</persName> λεγει <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:4.138</ref><q>ἥ οι πλεῖστον ἔρυτο διαπρο δὲ είσατο καὶ τῆς</q></cit> ⁑
+                                          </p>
+                                    </div>
+                              </div>
+                              <div n="265r_5" type="scholion">
+                                    <div n="lemma">
+                                          <p></p>
+                                    </div>
+                                    <div n="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001:20.269-20.272</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p>ἀτρώτων ὑπαρχόντων παρ <persName n="urn:cite2:hmt:pers:pers17">Ὁμήρω</persName> τῶν <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλέως</persName> ὁπλῶν καὶ ἔξωθεν κατ' ενίους τεταγμένης δια τὸν πλείονα τῆς χρυσῆς πτυχὸς οὕτως ἀποδοτέον τὸν λόγον. ἀλλα μέχρι μὲν δύο πτυχῶν προῆλθεν ἡ τῆς πληγῆς ἐνέργεια ΐξεως καὶ οιονεὶ συνιζήσεως γενομενῆς- ἐν δὲ τῇ τρίτη ἐπεσχέθη- πῶς φησὶν ἄτρωτον ὑποστησάμενος τὴν ἀσπίδα νῦν τοῦτο λέγει. ῥητέον οὖν ὅτι ὁ χρυσὸς ὧν μαλθακώτερος χαλκοῦ ἢ σίδηρου ἐνέδωκε τῷ δόρατι καὶ εκοιλάνθη- καὶ ἐγένετο κοιλότης οὐ τρῶσις⁑
+                                          </p>
+                                    </div>
+                              </div>
+                              <div n="265r_6" type="scholion">
+                                    <div n="lemma">
+                                          <p>δεύτερος αὖτ' Ἀχιλευς:</p>
+                                    </div>
+                                    <div n="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001:20.273</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p>ὅτι <persName n="urn:cite2:hmt:pers:pers15"><choice><abbr>Ζηνόδοτ</abbr><expan>Ζηνόδοτος</expan></choice></persName> μετεποίησεν οὕτως <q>μελίην ἰθυπτίωνα ἀσπίδα νύξ'. εὔχαλκον ἀμύμονος Ἀινείαο</q> οὐκ εκ χειρὸς δὲ ἐπέτυχεν ὁ <persName n="urn:cite2:hmt:pers:pers1">Αχιλλεὺς</persName> ὅπερ δια τοῦ <q>νύξε</q> σημαίνεται ἀλλα βέβληκε τὸ δόρυ διὸ καὶ ἑξῆς <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.283</ref><q>βέλος</q></cit> ἀυτὸ όρηκε⁑
+                                          </p>
+                                    </div>
+                              </div>
+                              <div n="265r_7" type="scholion">
+                                    <div n="lemma">
+                                          <p>ηδε διαπρο :</p>
+                                    </div>
+                                    <div n="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001:20.276</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p>κατα τὸ ἄνω μέρας τῆς ασπίδος διόλου διαπεράσαν τὸ δόρυ. ὀπίσω ἐπάγει τοῦ <persName n="urn:cite2:hmt:pers:pers142">Αἰνείου</persName>⁑
+                                          </p>
+                                    </div>
+                              </div>
                 </body>
             </text>
         </group>
