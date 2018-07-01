@@ -151,6 +151,39 @@
                   <p>τρίς<choice><abbr>χίλ</abbr><expan>χίλιαι</expan></choice></p>
               </div>
           </div>
+          <div n="264v_1" type="scholion">
+              <div n="lemma">
+                  <p></p>
+              </div>
+              <div n="ref">
+                  <p>urn:cts:greekLit:tlg0012.tlg001:20.243</p>
+              </div>
+              <div n="comment">
+                  <p><q>κάρτιστος <choice><abbr>ἁπαντ</abbr><expan>ἁπάντων</expan></choice></q></p>
+              </div>
+          </div>
+          <div n="264v_2" type="scholion">
+              <div n="lemma">
+                  <p></p>
+              </div>
+              <div n="ref">
+                  <p>urn:cts:greekLit:tlg0012.tlg001:20.247</p>
+              </div>
+              <div n="comment">
+                  <p><del>ἑκατόνζυγοσ</del></p>
+              </div>
+          </div>
+          <div n="264v_3" type="scholion">
+              <div n="lemma">
+                  <p></p>
+              </div>
+              <div n="ref">
+                  <p>urn:cts:greekLit:tlg0012.tlg001:20.</p>
+              </div>
+              <div n="comment">
+                  <p>τρίς<choice><abbr>χίλ</abbr><expan>χίλιαι</expan></choice></p>
+              </div>
+          </div>
         </body>
       </text>
     </group>

@@ -281,6 +281,71 @@
                             </p>
                           </div>
                       </div>
+                      <div n="264v_1" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.228</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                                <choice><abbr>Ἀρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice> <q>ἀλλ' ὅτι δὲ</q> αλλοι δὲ <q>ἀλλό τε δὴ</q> δια τοῦ <rs type="waw">η</rs>⁑
+                            </p>
+                          </div>
+                      </div>
+                      <div n="264v_2" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.234</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                                κατ ένια τὸν μὲν <choice><abbr>ανηρειψα</abbr><expan>ανηρειψαντο</expan></choice>⁑
+                            </p>
+                          </div>
+                      </div>
+                      <div n="264v_3" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.243</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                              ἐν αλλῳ <q>ὁ γάρ κ' όχ' ἄριστος ἁπάντων</q>
+                            </p>
+                          </div>
+                      </div>
+                      <div n="264v_4" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.246</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                               πολύστροφος εὐμετάθετος
+                            </p>
+                          </div>
+                      </div>
+                      <div n="264v_5" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.251</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                              εν αλλω <q>καὶ ονείδεα</q>
+                            </p>
+                          </div>
+                      </div>
 
 
 
