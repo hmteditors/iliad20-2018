@@ -189,12 +189,13 @@
                   <p></p>
               </div>
               <div n="ref">
-                  <p>urn:cts:greekLit:tlg0012.tlg001:20.</p>
+                  <p>urn:cts:greekLit:tlg0012.tlg001:20.255</p>
               </div>
               <div n="comment">
-                  <p>πολλ' ἐτέα τε καὶ οὐκί</p>
+                  <p>πολλ' ἐτεά τε καὶ οὐκί-</p>
               </div>
           </div>
+
         </body>
       </text>
     </group>
