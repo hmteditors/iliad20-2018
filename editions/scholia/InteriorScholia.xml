@@ -190,12 +190,35 @@
                           <p></p>
                       </div>
                       <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001:261</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.261</p>
                       </div>
                       <div n="comment">
                           <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice><persName n="urn:cite2:hmt:pers:pers15"><choice><abbr>Ζηνοδ</abbr><expan>Ζηνόδοτος</expan></choice></persName><choice><abbr>γρ</abbr><expan>γράφει</expan></choice><q>ἀπο οῦ</q>⁑</p>
                       </div>
                   </div>
+                  <div n="265v_1" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.280</p>
+                      </div>
+                      <div n="comment">
+                          <p>τὸν χαλκοῦν καὶ τὸν βύρσινον⁑</p>
+                      </div>
+                  </div>
+                  <div n="265v_2" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.293</p>
+                      </div>
+                      <div n="comment">
+                          <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr>λειπ</abbr><expan>λείπει</expan></choice> ἡ <p>περι</p> περὶ <persName n="urn:cite2:hmt:persName:pers142">Αινειου</persName>⁑</p>
+                      </div>
+                  </div>
+
                 </body>
             </text>
         </group>
