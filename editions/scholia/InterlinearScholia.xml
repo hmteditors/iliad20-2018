@@ -66,7 +66,7 @@
                           <p></p>
                       </div>
                       <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001:20.140</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.140@παραυτόθι</p>
                       </div>
                       <div n="comment">
                           <p><choice><abbr>παραυτ</abbr><expan>παραυτὰ</expan></choice> <choice><abbr>ευθ</abbr><expan>εὐθύς</expan></choice>⁑</p>
@@ -77,7 +77,7 @@
                           <p></p>
                       </div>
                       <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001:20.145</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.145@ἀμφίχυτον</p>
                       </div>
                       <div n="comment">
                           <p>αμφίχυστον</p>
@@ -88,7 +88,7 @@
                           <p></p>
                       </div>
                       <div n="ref">
-                          <p>urn:cts:greekLit:tlg0012.tlg001:20.148</p>
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.148@σεύαιτο</p>
                       </div>
                       <div n="comment">
                           <p>διώξειεν ⁑</p>
