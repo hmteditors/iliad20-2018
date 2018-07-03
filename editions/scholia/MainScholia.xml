@@ -1181,6 +1181,32 @@
                                           </p>
                                     </div>
                               </div>
+                              <div n="266r_5" type="scholion">
+                                    <div n="lemma">
+                                          <p>θεοῦ ἀπο χειρὸς ὀρούσας:</p>
+                                    </div>
+                                    <div n="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001:20.327</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p>
+                                            δύναται ἡ <rs type="waw">απο</rs> καὶ ἀναστρέφεσθαι ἵν' <q>ἀπο θεοῦ</q>- καὶ φυλάσσειν τὸν τόνον ἵν ᾖ <q>ἀπορούσας</q> ὅπερ καὶ βέλτιον⁑
+                                          </p>
+                                    </div>
+                              </div>
+                              <div n="266r_5" type="scholion">
+                                    <div n="lemma">
+                                          <p><placeName n="urn:cite2:hmt:place:place72">Καύκωνες</placeName>-</p>
+                                    </div>
+                                    <div n="ref">
+                                          <p>urn:cts:greekLit:tlg0012.tlg001:20.329</p>
+                                    </div>
+                                    <div n="comment">
+                                          <p>
+                                            οἱ μεν Τρωϊκὸν ἔθνος βάρβαρον- ἄλλοι δὲ <placeName n="urn:cite2:hmt:place:place262">Παφλαγονίας</placeName>- οἱ δὲ τοὺς ἐπίκλην <rs type="ethnic" n="urn:cite2:hmt:place:place263">Καυνίους</rs>. ἡ δὲ <placeName n="urn:cite2:hmt:place:place263">Καῦνος</placeName>, πόλις <choice><sic>παρὰ αλος</sic><corr>πάραλος</corr></choice> πλησιον <placeName n="urn:cite2:hmt:place:place75">Λυκιας</placeName> και <placeName n="urn:cite2:hmt:place:place85">Καρίας</placeName>⁑
+                                          </p>
+                                    </div>
+                              </div>
 
                 </body>
             </text>
