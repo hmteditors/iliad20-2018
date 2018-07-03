@@ -424,7 +424,6 @@
                             </p>
                           </div>
                       </div>
-
                       <div n="265v_2" type="scholion">
                           <div n="lemma">
                               <p></p>
@@ -435,6 +434,19 @@
                           <div n="comment">
                               <p>
                               πρὸς τὸ <choice><abbr>σχημ</abbr><expan>σχημα</expan></choice> <q>τὸν δὲ τὴν ψυχὴν <choice><abbr>ἀφείλετ</abbr><expan>ἀφείλετο</expan></choice></q> ⁑
+                            </p>
+                          </div>
+                      </div>
+                      <div n="266r_1" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.306</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                              παρα <choice><abbr>Ἀριστοφ</abbr><expan>Ἀριστοφάνει</expan></choice> <q>ήχθαιρε</q>⁑
                             </p>
                           </div>
                       </div>
