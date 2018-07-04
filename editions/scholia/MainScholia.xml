@@ -1257,12 +1257,36 @@
                                   </div>
                                   <div n="comment">
                                         <p>
-                                           ὅτι βέβληκε τὸ δόρυ ἐπι τὸν <persName n="urn:cite2:hmt:pers:pers142">Αἰνείαν</persName> καὶ ουκ εκ χειρὸς ἔτρωσεν ὡς Ζηνοδοτος γράφει λέγει γοῦν ῥητῶς <q>ἀφέηκα</q>⁑
+                                           ὅτι βέβληκε τὸ δόρυ ἐπι τὸν <persName n="urn:cite2:hmt:pers:pers142">Αἰνείαν</persName> καὶ ουκ εκ χειρὸς ἔτρωσεν ὡς <persName n="urn:cite2:hmt:pers:pers15">Ζηνοδοτος</persName> γράφει λέγει γοῦν ῥητῶς <q>ἀφέηκα</q>⁑
                                         </p>
                                   </div>
                             </div>
-
-
+                            <div n="267r_1" type="scholion">
+                                  <div n="lemma">
+                                        <p>αργαλέον δέ μοι ἐστι</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.356</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                           ἄμεινον ἐνθάδε ἀπόλυτον λαμβάνειν τὴν ἀντωνυμίαν τουτέστιν <choice><sic>ἐγκλιτικῆν</sic><corr>ἐγκλιτικήν</corr></choice>⁑
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="267r_2" type="scholion">
+                                  <div n="lemma">
+                                        <p>τόσσους δ' <choice><abbr>ἀνους</abbr><expan>ἀνθρώπους</expan></choice></p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.357</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                           ὁ <persName n="urn:cite2:hmt:pers:pers485">Ἀσκαλωνίτης</persName> προπερισπᾷ ἐπεί φησι κατά δειξιν λεγεται. καὶ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.359</ref><q>τόσσης δ' ὑσμίνης</q></cit> <persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>Ἀρίσταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> μέντοι καὶ οἱ πλείους παρολκὴν ἐξεδέξαντο του <rs type="waw">δε</rs> καὶ ἐπείσθη ταύτη τῇ ἀναγνώσει ἡ παράδοσις- οὐκ αδόκιμος δὲ καὶ ἡ τοῦ <persName n="urn:cite2:hmt:pers:pers485">Ἀσκαλωνίτου</persName>⁑
+                                        </p>
+                                  </div>
+                            </div>
                 </body>
             </text>
         </group>
