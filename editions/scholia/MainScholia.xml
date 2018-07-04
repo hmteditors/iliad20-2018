@@ -1233,19 +1233,35 @@
                                         </p>
                                   </div>
                             </div>
-                            <div n="266v_2" type="scholion">
+
+
+                            <div n="266v_3" type="scholion">
                                   <div n="lemma">
-                                        <p>ὃς σεῦ. ἅμα κρείσσων</p>
+                                        <p></p>
                                   </div>
                                   <div n="ref">
-                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.334</p>
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.332</p>
                                   </div>
                                   <div n="comment">
                                         <p>
-                                          ὀρθοτονητέον τὴν ἀντωνυμίαν ὡς ἐκεὶ <cit>urn:cts:greekLit:tlg0012.001:2.27<ref></ref><q>ὃσ σεῦ ἄνευθεν ἐῶν</q></cit>- ἔστι γὰρ καὶ ἀντιδιασταλτική⁑
+                                           <q>ἀτέοντα</q> ἀφροντιστοῦντα φρενοβλαβοῦντα καὶ ατιζω τὸ μωραίνω⁑
                                         </p>
                                   </div>
                             </div>
+                            <div n="266v_4" type="scholion">
+                                  <div n="lemma">
+                                        <p>λεύσσω τῷδ' ἐφέηκα:</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.346</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                           ὅτι βέβληκε τὸ δόρυ ἐπι τὸν <persName n="urn:cite2:hmt:pers:pers142">Αἰνείαν</persName> καὶ ουκ εκ χειρὸς ἔτρωσεν ὡς Ζηνοδοτος γράφει λέγει γοῦν ῥητῶς <q>ἀφέηκα</q>⁑
+                                        </p>
+                                  </div>
+                            </div>
+
 
                 </body>
             </text>
