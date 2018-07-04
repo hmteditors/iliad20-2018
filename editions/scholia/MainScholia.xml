@@ -1209,7 +1209,7 @@
                               </div>
                               <div n="266v_1" type="scholion">
                                   <div n="lemma">
-                                        <p><persName n="urn:cite2:hmt:pers:pers142">‘Αἰνεία</persName> τίς ᾦδε</p>
+                                        <p><persName n="urn:cite2:hmt:pers:pers142">Αἰνεία</persName> τίς ᾦδε</p>
                                   </div>
                                   <div n="ref">
                                         <p>urn:cts:greekLit:tlg0012.tlg001:20.332</p>
@@ -1229,7 +1229,7 @@
                                   </div>
                                   <div n="comment">
                                         <p>
-                                          ὀρθοτονητέον τὴν ἀντωνυμίαν ὡς ἐκεὶ <cit>urn:cts:greekLit:tlg0012.001:2.27<ref></ref><q>ὃσ σεῦ ἄνευθεν ἐῶν</q></cit>- ἔστι γὰρ καὶ ἀντιδιασταλτική⁑
+                                          ὀρθοτονητέον τὴν ἀντωνυμίαν ὡς ἐκεὶ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:2.27</ref><q>ὃσ σεῦ ἄνευθεν ἐῶν</q></cit>- ἔστι γὰρ καὶ ἀντιδιασταλτική⁑
                                         </p>
                                   </div>
                             </div>
