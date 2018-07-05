@@ -451,6 +451,55 @@
                           </div>
                       </div>
 
+
+                      <div n="266v_1" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.331</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                               παρα <persName n="urn:cite2:hmt:pers:pers15"><choice><abbr>Ζηνοτ</abbr><expan>Ζηνοδότῳ</expan></choice></persName>  <q>καί μιν νεικείων</q> παρὰ <persName n="urn:cite2:hmt:pers:pers85">Ριανῷ</persName> <q>τὸν καὶ νεικείων</q>
+                            </p>
+                          </div>
+                      </div>
+
+                      <div n="266v_2" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.332</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                                <choice><abbr>ατέοντ</abbr><expan>ἀτέοντα</expan></choice> <choice><abbr>ουτ</abbr><expan>οὔτως</expan></choice> ἐν πασαις.
+                              </p>
+                          </div>
+                      </div>
+
+
+                      <div n="266v_3" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.333</p>
+                          </div>
+                          <div n="comment">
+                              <p>
+                                εν ἄλλῳ <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> τοῦ <persName n="urn:cite2:hmt:pers:pers1">Αχιληοσ</persName> πολεμίζειν ἠ δὲ μαχεσθαι⁑
+                              </p>
+                          </div>
+                      </div>
+
+
+
+
+
+
                 </body>
             </text>
         </group>
