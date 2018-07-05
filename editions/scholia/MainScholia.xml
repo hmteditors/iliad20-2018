@@ -1287,6 +1287,58 @@
                                         </p>
                                   </div>
                             </div>
+                            <div n="267r_3" type="scholion">
+                                  <div n="lemma">
+                                        <p>ἀλλα μαλα</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.362</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          προς τὸ σημαινόμενον ὅτι δι όλης τῆς τάξεως πορεύσομαι διανταίαν απ αρχῆς ἕως πέρατος⁑
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="267r_4" type="scholion">
+                                  <div n="lemma">
+                                        <p>στιχός:</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.362</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          ὡς τριχὸς ἀπεθείας τῆς <q>στίξ</q> καὶ γὰρ <q>στίχες</q> λέγει καὶ <q>στίχας</q>- τὸ δε <q>εἰμι</q> <choice><abbr>προπερισπαστ</abbr><expan>προπερισπαστέον</expan></choice> σημαίνει γὰρ τὸ πορεύομαι⁑
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="267r_5" type="scholion">
+                                  <div n="lemma">
+                                        <p>τῷ δ' ἐγὼ ἀντίος εἰμι_ καὶ εἰ πυρὶ χείρας- </p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.371</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          ἄγκυλον τὸ διανόημα. καὶ πολὺν ἐν βραχεῖ νοῦν ἔχον καὶ δια τῆς ἐπαναλήψεως ἐμφαῖνον ὑπερβολὴν τῆς ἀμφοῖν δυνάμεως. πυρὸς μὲν ὀξύτητοα. σιδήρου δὲ καρτερίαν <w>παραλαβ<add place="supralinear">ο</add>ν</w>
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="267r_6" type="scholion">
+                                  <div n="lemma">
+                                        <p>εἰ πυρὶ χείρας-</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.372</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          προς τὴν ἐπανάληψιν ὅτι ἐν Ιλιάδι συνεχῶς ἐν δε Οδυσσειᾳ ἅπαξ⁑
+                                        </p>
+                                  </div>
+                            </div>
                 </body>
             </text>
         </group>
