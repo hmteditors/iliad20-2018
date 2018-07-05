@@ -1335,7 +1335,33 @@
                                   </div>
                                   <div n="comment">
                                         <p>
-                                          προς τὴν ἐπανάληψιν ὅτι ἐν Ιλιάδι συνεχῶς ἐν δε Οδυσσειᾳ ἅπαξ⁑
+                                          προς τὴν ἐπανάληψιν ὅτι ἐν <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg001:"><choice><abbr>Ιδ</abbr><expan>Ἰλιάδι</expan></choice></ref></title> συνεχῶς ἐν δε <title><ref type="urn" n="urn:cts:greekLit:tlg0012.tlg002:"><choice><abbr>Οδ</abbr><expan>Ὀδυσσειᾳ</expan></choice></ref></title> ἅπαξ⁑
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="267r_7" type="scholion">
+                                  <div n="lemma">
+                                        <p>καὶ τότ' ὰρ Ἔκτορα-</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.375</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          ὅτι ἐλλείπει ἡ <rs type="waw">πρὸς</rs> προθέσις <q>προς <persName n="urn:cite2:hmt:pers:pers172">Έκτορα</persName></q> καί τοι παρῆν εἰπεῖν <q><persName n="urn:cite2:hmt:pers:pers172">Ἕκτορι</persName> εἶπεν</q> ἀλλα <choice><abbr>συνηθ</abbr><expan>συνήθως</expan></choice> παρέλειπε τὴν πρόθεσιν. <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:17.237</ref><q>καὶ τοτ ὰρ <persName n="urn:cite2:hmt:pers:pers127">Αἴας</persName> εῖπε βοὴν ἀγαθὸν <persName n="urn:cite2:hmt:pers:pers119">Μενέλαον</persName></q></cit>⁑
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="267r_8" type="scholion">
+                                  <div n="lemma">
+                                        <p>μήπως ηε βάλη-</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.378</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          ὅτι διέσταλκε τὸ βαλλεῖν καὶ τὸ τύψαι διδασκαλικῶς προσθεὶς <q>σχεδὸν</q> οἷον σχέδην ἐκ τοῦ σύνεγγυς⁑
                                         </p>
                                   </div>
                             </div>
