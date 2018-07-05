@@ -495,6 +495,30 @@
                           </div>
                       </div>
 
+                      <div n="267r_1" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.374</p>
+                          </div>
+                          <div n="comment">
+                              <p><choice><abbr>γρ</abbr><expan>γράφεται</expan></choice> εσταν <rs type="ethnic" n="urn:cite2:hmt:place:place96">Αχαιῶν</rs>⁑</p>
+                          </div>
+                      </div>
+
+                      <div n="267r_2" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.</p>
+                          </div>
+                          <div n="comment">
+                              <p>⁑</p>
+                          </div>
+                      </div>
+
 
 
 

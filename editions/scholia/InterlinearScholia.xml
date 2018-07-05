@@ -150,6 +150,68 @@
                       </div>
                   </div>
 
+                  <div n="267r_1" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.357@ἐφέπειν</p>
+                      </div>
+                      <div n="comment">
+                          <p>διώκειν</p>
+                      </div>
+                  </div>
+
+                  <div n="267r_2" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.362@στιχὸς</p>
+                      </div>
+                      <div n="comment">
+                          <p>τῆς σταξεωσ</p>
+                      </div>
+                  </div>
+
+                  <div n="267r_4" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.365@ϊμεναι</p>
+                      </div>
+                      <div n="comment">
+                          <p>πορεύσθαι</p>
+                      </div>
+                  </div>
+
+                  <div n="267r_5" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.370@κολούει</p>
+                      </div>
+                      <div n="comment">
+                          <p>μειοῖ</p>
+                      </div>
+                  </div>
+
+                  <div n="267r_6" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.377@δέδεξο</p>
+                      </div>
+                      <div n="comment">
+                          <p>προσδέχου</p>
+                      </div>
+                  </div>
+
+
+
                 </body>
             </text>
         </group>
