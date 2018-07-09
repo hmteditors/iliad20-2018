@@ -1365,6 +1365,58 @@
                                         </p>
                                   </div>
                             </div>
+                            <div n="267v_1" type="scholion">
+                                  <div n="lemma">
+                                        <p>ὃ νυμφη τέκε- </p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.384</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          ἐν τισι τῶν φαύλων ἀντιγράφων <q>τὸν νύμφη</q> δια τοῦ <rs type="waw">τ</rs>⁑
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="267v_2" type="scholion">
+                                  <div n="lemma">
+                                        <p>κεῖσαι <persName n="urn">Ὀτρυντίδῃ</persName>, </p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.389</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          ὅτι ὁ <persName n="urn:cite2:hmt:pers:pers1">Ἀχιλλεὺς</persName> γινώσκων αὐτὸν ἐξ ονόματος καλεῖ⁑
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="267v_3" type="scholion">
+                                  <div n="lemma">
+                                        <p>ἔνθα δέ τοι θάνατος-</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.390</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          ἔν ἐστι τὸ ἐνθάδε ὡς καὶ ὁ <persName n="urn:cite2:hmt:pers:pers485"><choice><abbr>Ἀσκαλωνιτ</abbr><expan>Ἀσκαλωνίτης</expan></choice></persName> ἔστι γὰρ δεικτικὸν τῆς ἐν τόπῳ σχέσεως ὥσπερ καὶ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:5.208</ref><q>ἐνθάδέ κ' αῦθι μένων</q></cit> ὥστε προτῆς δε συλλαβῆς ἡ οξεῖα⁑
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="267v_4" type="scholion">
+                                  <div n="lemma">
+                                        <p>ὡς ὅτε ταῦρος ήρυγεν ἑλκόμενος Ἑλικώνιον ἀμφι άνακτα-</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.403-20.404</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          τὸν <persName n="urn:cite2:hmt:pers:pers47">Ποσειδῶνα</persName>: ἤτοι ὅτι καὶ ἐν <placeName n="urn:cite2:hmt:place:place145">Ελικῶνι</placeName> όρει τῆς <placeName n="urn">Βοιωτίας</placeName> τιμᾶται- ὴ ἐν <placeName n="urn:cite2:hmt:place:place277">Ελίκη</placeName>- μᾶλλον οὖν παρα τὸν ἐν <placeName n="urn:cite2:hmt:place:place277">Ελίκη</placeName>. ὅτι <placeName n="urn:cite2:hmt:place:place145">Ἑλικῶν</placeName> μὲν <placeName n="urn">Βοιωτίας</placeName> όρος. <placeName n="urn:cite2:hmt:place:place277">Ἐλίκη</placeName> δὲ νῆσος τῆς <placeName n="urn:cite2:hmt:place:place96">Ἀχαΐας</placeName> ϊερὰ <persName n="urn:cite2:hmt:pers:pers47">Ποσειδῶνος</persName> ἡ δὲ ἰστορία αύτη. <persName n="urn">Νηλεὺς</persName> ὁ <persName n="urn">Kόδρου</persName> χρησμὸν λαβὼν αποικίαν ἔστειλεν εἰς <placeName n="urn:cite2:hmt:place:place120">Μίλητον</placeName> καὶ τὴν <placeName n="urn:cite2:hmt:place:place85">Καρίαν</placeName> ἐξ <placeName n="urn:cite2:hmt:place:place1">Αθηνῶν</placeName> καὶ τῆς Ἀχαϊκῆς <placeName n="urn:cite2:hmt:place:place277">Ἑλικῆς</placeName> παραγενόμενος δὲ εἰς τὴν <placeName n="urn:cite2:hmt:place:place85">Καρίαν</placeName> ἱερὸν <persName n="urn:cite2:hmt:pers:pers47">Ποσειδῶνος</persName> ἱ+δρύσατο καὶ ἀπο τοῦ ἐν <placeName n="urn:cite2:hmt:place:place85">Ελίκῃ</placeName> τεμένους Ἐλικώνιον προσηγόρευσεν. δοκεῖ δ' ἐπὰν θύωσι τὸν θεὸν βρησάντων μὲν βοῶν προσδέχεσθαι τὸ θειὸν τὴν θυσίαν- σιγῶντα δὲ λυποῦνται μηνιεῖν νομίζοντες. ἡ ἱστορία παρὰ <persName n="urn">Κλειτοφῶντι</persName>⁑
+                                        </p>
+                                  </div>
+                            </div>
                 </body>
             </text>
         </group>
