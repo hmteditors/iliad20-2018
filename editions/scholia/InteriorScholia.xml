@@ -260,7 +260,7 @@
                           <p>urn:cts:greekLit:tlg0012.tlg001:20.395</p>
                       </div>
                       <div n="comment">
-                          <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> <persName n="urn:cote2:hmt:pers:pers16"><choice><abbr>Ἀρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> τινὲς δὲ <persName n="urn">Δηϊλέοντα</persName></p>
+                          <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> <persName n="urn:cite2:hmt:pers:pers16"><choice><abbr>Ἀρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> τινὲς δὲ <persName n="urn">Δηϊλέοντα</persName></p>
                       </div>
                   </div>
                   <div n="267v_4" type="scholion">
