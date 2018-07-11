@@ -1367,7 +1367,7 @@
                             </div>
                             <div n="267v_1" type="scholion">
                                   <div n="lemma">
-                                        <p>ὃ νυμφη τέκε- </p>
+                                        <p>ὃν νυμφη τέκε- </p>
                                   </div>
                                   <div n="ref">
                                         <p>urn:cts:greekLit:tlg0012.tlg001:20.384</p>
@@ -1396,7 +1396,7 @@
                                         <p>λίμνη- Γυγαίη-</p>
                                   </div>
                                   <div n="ref">
-                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.389</p>
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.390-20.391</p>
                                   </div>
                                   <div n="comment">
                                         <p>
@@ -1404,19 +1404,24 @@
                                         </p>
                                   </div>
                             </div>
-                            <div n="267v_4" type="scholion">
+
+
+                            <div n="267v_3" type="scholion">
                                   <div n="lemma">
-                                        <p>ἔνθα δέ τοι θάνατος-</p>
+                                        <p>εσθλὸν ἀλεξητηρα</p>
                                   </div>
                                   <div n="ref">
-                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.390</p>
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.396</p>
                                   </div>
                                   <div n="comment">
                                         <p>
-                                          ἔν ἐστι τὸ ἐνθάδε ὡς καὶ ὁ <persName n="urn:cite2:hmt:pers:pers485"><choice><abbr>Ἀσκαλωνιτ</abbr><expan>Ἀσκαλωνίτης</expan></choice></persName> ἔστι γὰρ δεικτικὸν τῆς ἐν τόπῳ σχέσεως ὥσπερ καὶ τὸ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:5.208</ref><q>ἐνθάδέ κ' αῦθι μένων</q></cit> ὥστε προτῆς δε συλλαβῆς ἡ οξεῖα⁑
+                                          ἐκ τῶν τριῶν λέξεων ἓν σημαίνει ἐν πολέμῳ ἀγαθόν θετέον οὖν ἐπ αυτὸν τὴν συνάφην σὺν δύο τῆς τε πρώτης καὶ δευτέρας καὶ τρίτης λέξεως δύναται δὲ καὶ το <q>ἐσθλὸν</q> καθ εαυτὸ εῖναι⁑
                                         </p>
                                   </div>
                             </div>
+
+
+
                             <div n="267v_5" type="scholion">
                                   <div n="lemma">
                                         <p>ὡς ὅτε ταῦρος ήρυγεν ἑλκόμενος Ἑλικώνιον ἀμφι άνακτα-</p>
