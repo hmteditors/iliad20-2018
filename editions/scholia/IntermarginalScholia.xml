@@ -507,23 +507,83 @@
                           </div>
                       </div>
 
-                      <div n="267r_2" type="scholion">
+                      <div n="267v_1" type="scholion">
                           <div n="lemma">
                               <p></p>
                           </div>
                           <div n="ref">
-                              <p>urn:cts:greekLit:tlg0012.tlg001:20.</p>
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.385</p>
                           </div>
                           <div n="comment">
-                              <p>⁑</p>
+                              <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> <placeName n="urn:cite2:hmt:place:place91">Ὕδης</placeName> δια τοῦ <rs type="waw">δ</rs> τῆς <placeName n="urn:cite2:hmt:place:place87">Λυδίας</placeName>⁑</p>
                           </div>
                       </div>
-
-
-
-
-
-
+                      <div n="267v_2" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.385</p>
+                          </div>
+                          <div n="comment">
+                              <p><placeName n="urn:cite2:hmt:place:place91">Ύδη</placeName> δὲ τῆς <placeName n="urn:cite2:hmt:place:place30">Βοιωτίας</placeName>⁑</p>
+                          </div>
+                      </div>
+                      <div n="267v_3" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.388</p>
+                          </div>
+                          <div n="comment">
+                              <p>ὅτι ἐκ τοῦ <choice><abbr>παρακολουθουντ</abbr><expan>παρακολουθούντος</expan></choice> ἀπέθανεν ⁑</p>
+                          </div>
+                      </div>
+                      <div n="267v_4" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.391</p>
+                          </div>
+                          <div n="comment">
+                              <p><choice><abbr>ον</abbr><expan>ὄνομα</expan></choice> τῆς λίμνης ⁑</p>
+                          </div>
+                      </div>
+                      <div n="267v_5" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.392</p>
+                          </div>
+                          <div n="comment">
+                              <p><choice><abbr>ποτ</abbr><expan>ποτε</expan></choice> <placeName n="urn:cite2:hmt:place:place87">Λυδίας</placeName> ⁑</p>
+                          </div>
+                      </div>
+                      <div n="267r_6" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.400</p>
+                          </div>
+                          <div n="comment">
+                              <p><choice><abbr>γρ</abbr><expan>γράφεται</expan></choice> <q>αΐσσοντα</q>⁑</p>
+                          </div>
+                      </div>
+                      <div n="267r_7" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.404</p>
+                          </div>
+                          <div n="comment">
+                              <p>πρὸς τὴν ἐπανάληψιν τοῦ <q>ήρυγεν</q>⁑</p>
+                          </div>
+                      </div>
                 </body>
             </text>
         </group>

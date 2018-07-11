@@ -230,8 +230,50 @@
                           <p>ἐν αλλω <q>τοῦ δ' ἐγὼ</q></p>
                       </div>
                   </div>
-
-
+                  <div n="267v_1" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.386</p>
+                      </div>
+                      <div n="comment">
+                          <p>σημειοῦνται τινες <choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <q>εἰς εὐθὺς ορμῶντα</q>- </p>
+                      </div>
+                  </div>
+                  <div n="267v_2" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.387</p>
+                      </div>
+                      <div n="comment">
+                          <p>ὅτι ἀντι τοῦ <q>όλη</q>:</p>
+                      </div>
+                  </div>
+                  <div n="267v_3" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.395</p>
+                      </div>
+                      <div n="comment">
+                          <p><choice><abbr>ουτ</abbr><expan>οὕτως</expan></choice> <persName n="urn:cote2:hmt:pers:pers16"><choice><abbr>Ἀρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> τινὲς δὲ <persName n="urn">Δηϊλέοντα</persName></p>
+                      </div>
+                  </div>
+                  <div n="267v_4" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.401</p>
+                      </div>
+                      <div n="comment">
+                          <p><choice><abbr>κατβαντ</abbr><expan>καταβάντα</expan></choice> τῶν ἵππων ⁑</p>
+                      </div>
+                  </div>
 
                 </body>
             </text>
