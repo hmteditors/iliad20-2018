@@ -274,7 +274,28 @@
                           <p><choice><abbr>κατβαντ</abbr><expan>καταβάντα</expan></choice> τῶν ἵππων ⁑</p>
                       </div>
                   </div>
-
+                  <div n="268v_1" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.446</p>
+                      </div>
+                      <div n="comment">
+                          <p><choice><sic>πὸλλην</sic><corr>πόλλην</corr></choice>:</p>
+                      </div>
+                  </div>
+                  <div n="268v_2" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.451</p>
+                      </div>
+                      <div n="comment">
+                          <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> ᾧ εοίκασι εὔχεσθαι <choice><abbr>παραγινομε</abbr><expan>παραγινόμενος</expan></choice> εἰς πόλεμον ⁑</p>
+                      </div>
+                  </div>
                 </body>
             </text>
         </group>

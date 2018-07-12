@@ -1492,12 +1492,88 @@
                                           οὐκ <persName n="urn:cite2:hmt:pers:pers142">Απόλλων</persName> ῥύεται
                                           ἀλλα <persName n="urn:cite2:hmt:pers:pers47">Ποσειδῶν</persName>. ψεῦδος ὁ ποιητὴς πάνυ ἐνδείκνυται
                                           ὡς ἡ ἄλλη περι τοὺς θεοὺς εὐσέβεια δυσωποῦσα ἡ καὶ τοὺς διεχθρας
-                                          ὄντας.
+                                          ὄντας⁑
                                         </p>
                                   </div>
                             </div>
-
-                          
+                            <div n="268v_1" type="scholion">
+                                  <div n="lemma">
+                                        <p>αἴ κε σε χειρότερός</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:436</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                        <q>χείριος</q> <q>χειριότερος</q>. συγκοπὴ καὶ πλεονασμὸς <q>χειρότερος</q>⁑
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="268v_2" type="scholion">
+                                  <div n="lemma">
+                                        <p>δουρὶ βαλὼν</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:437</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                        συναφῆ ἐπι τὰς τελευταιας δύο λέξεις- ἓν γὰρ ἐξ αμφοτέρων δηλοῦται τὸ ὠξυμμένον κατα τὸ ἔμπροσθεν μερος⁑
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="268v_3" type="scholion">
+                                  <div n="lemma">
+                                        <p>ῆκα μάλα ψύξασα</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:440</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                        ὅτι <q>ψύξασα</q> φυσήσασα τῷ ἑαυτῆς <choice><abbr>πνι</abbr><expan>πνεύματι</expan></choice> ἀπέστρεψε τὸ δόρυ⁑
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="268v_4" type="scholion">
+                                  <div n="lemma">
+                                        <p>ἔγκεϊ χαλκείῳ</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:446</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                        πιθανῶς ἀναρτᾷ τὴν ἐπιθυμίαν τῶν ἀκροατῶν εἰς τελος τῶν ποιήσεων ἑαυτῶ ταμιευόμενος τὴν σφαγὴν <persName n="urn:cite2:hmt:pers:pers172">Ἔκτορος</persName> προς δε τὸ ἄπιστον βοηθείᾳ χρῆται ὥσπερ ἀπολογούμενος δια τοῦ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.444</ref><q>ῥεῖα μάλ'</q></cit>⁑
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="268v_5" type="scholion">
+                                  <div n="lemma">
+                                        <p>ῆ θῆν σ' ἐξανύω γε</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:452</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                        περισπαστέον τὸν <q>ῆ</q> ἔστι γὰρ βεβαιωτικὸς ἴσως τῷ <q>δὴ</q>- τὸ δὲ <q>ἀνύω</q> βαρύτονως ἀναγωστέον ἔστι γὰρ ἐνεστος ἀντι <choice><abbr>με</abbr><expan>μέλλοντος</expan></choice>⁑
+                                        </p>
+                                  </div>
+                            </div>
+                            <div n="268v_6" type="scholion">
+                                  <div n="lemma">
+                                        <p>νῦν δ' ἄλλους,</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:454</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                        προς τὸ σχῆμα ὅτι ἰδίως πληθυντικῷ ἑνικὸν ἐπήνεγκεν <q>ὅν κε κιχείω</q>⁑
+                                        </p>
+                                  </div>
+                            </div>
 
 
 
