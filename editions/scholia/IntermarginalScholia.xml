@@ -584,6 +584,32 @@
                               <p>πρὸς τὴν ἐπανάληψιν τοῦ <q>ήρυγεν</q>⁑</p>
                           </div>
                       </div>
+
+                      <div n="268r_1" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.414</p>
+                          </div>
+                          <div n="comment">
+                              <p><choice><abbr>ουτ</abbr><expan>οὑτως</expan></choice> κατα γενικὴν <q>παραΐσσοντος</q>⁑</p>
+                          </div>
+                      </div>
+
+                      <div n="268r_1" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.426</p>
+                          </div>
+                          <div n="comment">
+                              <p><choice><abbr>Αρισταρχ</abbr>Ἀρίσταρχος<expan></expan></choice> <q>οὐδ ὰν ετι δὴν</q> δια τοῦ <rs type="waw">αν</rs>⁑</p>
+                          </div>
+                      </div>
+
+
                 </body>
             </text>
         </group>

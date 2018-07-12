@@ -1435,6 +1435,74 @@
                                         </p>
                                   </div>
                             </div>
+
+                            <div n="268r_1" type="scholion">
+                                  <div n="lemma">
+                                        <p> ὡς ἀρα τόν γ' ἐρυγόντα-</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:20.406</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                        ὡς <q>φαγόντα</q> ἔστι γὰρ δευτέρου ἀορίστου καὶ ὡς <q>ἔφυγε</q> <q>φυγόντα</q> ὅυτως <q>ἥρυγεν</q>
+                                        <q>ἐρυγόντα</q>⁑
+                                        </p>
+                                  </div>
+                            </div>
+
+                            <div n="268r_2" type="scholion">
+                                  <div n="lemma">
+                                        <p>χρύσειοι σύνεχον</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:415</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                      ὅτι κατα τὴν τοῦ ζώματος ἐπιβολὴν προς τὸν στρατὸν θώρακα καὶ διπλοὺς ἢν ὁ θώραξ⁑
+                                        </p>
+                                  </div>
+                            </div>
+
+                            <div n="268r_2" type="scholion">
+                                  <div n="lemma">
+                                        <p><choice><sic>προτί</sic><corr>προτὶ</corr> οἷ δ' έλαβ'</choice></p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:418</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                      περισπαστέον τὸν <rs type="waw">οι</rs> ἔστι γὰρ προσεαυτόν⁑
+                                        </p>
+                                  </div>
+                            </div>
+
+                            <div n="268r_3" type="scholion">
+                                  <div n="lemma">
+                                        <p>ανέπαλτο:</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:424</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          <q>ανέπηδησεν</q> <q>ἀνήλατο</q> -  πῶς δέ φησι τὸν <persName n="urn:cite2:hmt:pers:pers142">Αινείαν</persName>
+                                          οὐκ <persName n="urn:cite2:hmt:pers:pers142">Απόλλων</persName> ῥύεται
+                                          ἀλλα <persName n="urn:cite2:hmt:pers:pers47">Ποσειδῶν</persName>. ψεῦδος ὁ ποιητὴς πάνυ ἐνδείκνυται
+                                          ὡς ἡ ἄλλη περι τοὺς θεοὺς εὐσέβεια δυσωποῦσα ἡ καὶ τοὺς διεχθρας
+                                          ὄντας.
+                                        </p>
+                                  </div>
+                            </div>
+
+                          
+
+
+
+
+
                 </body>
             </text>
         </group>

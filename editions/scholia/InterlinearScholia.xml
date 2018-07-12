@@ -231,6 +231,65 @@
                           <p>ἐμυκατο</p>
                       </div>
                   </div>
+                  <div n="268r_1" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.414@ὀχῆες</p>
+                      </div>
+                      <div n="comment">
+                          <p>οἱ <choice><sic>λώροι</sic><corr>λῶροι</corr></choice></p>
+                      </div>
+                  </div>
+
+                  <div n="268r_2" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.418@λιασθείς</p>
+                      </div>
+                      <div n="comment">
+                          <p>εκταθείς</p>
+                      </div>
+                  </div>
+
+                  <div n="268r_3" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.420@λιαζόμενον</p>
+                      </div>
+                      <div n="comment">
+                          <p>κυλιόμενον</p>
+                      </div>
+                  </div>
+
+                  <div n="268r_4" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.425@ἐσεμάσσατο</p>
+                      </div>
+                      <div n="comment">
+                          <p>καθήψατο:</p>
+                      </div>
+                  </div>
+
+                  <div n="268r_4" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.427@πτώσσοιμεν</p>
+                      </div>
+                      <div n="comment">
+                          <p>φύγοιμεν</p>
+                      </div>
+                  </div>
 
 
 
