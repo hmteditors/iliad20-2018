@@ -666,6 +666,39 @@
                               <p><choice><abbr>γρ</abbr><expan>γράφεται</expan></choice> καὶ <q>κατ οὗς</q>⁑</p>
                           </div>
                       </div>
+                      <div n="269v_1" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.483</p>
+                          </div>
+                          <div n="comment">
+                              <p>σφονδύλων οἳ εἰσὶν <num value="24">ΚΔ</num> ἐν τῇ ράχῃ </p>
+                          </div>
+                      </div>
+                      <div n="269v_2" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.486</p>
+                          </div>
+                          <div n="comment">
+                              <p>ἐν αλλῶ <q>ἐν νηδύϊ χαλκὸς</q>⁑</p>
+                          </div>
+                      </div>
+                      <div n="269v_3" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.496</p>
+                          </div>
+                          <div n="comment">
+                              <p><choice><abbr>γρ</abbr><expan>γράφεται</expan></choice> <q>ἐϋτροχάλω ἐν αλῳῇ</q>⁑</p>
+                          </div>
+                      </div>
 
                 </body>
             </text>

@@ -314,8 +314,61 @@
                           <p>αὐτοῦ</p>
                       </div>
                   </div>
-
-
+                  <div n="269v_1" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.490@ἀναμαιμάει</p>
+                      </div>
+                      <div n="comment">
+                          <p>ἀναφέρεται <choice><abbr>μαίνεt</abbr><expan>μαίνεται</expan></choice></p>
+                      </div>
+                  </div>
+                  <div n="269v_2" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.490@ἄγκεα</p>
+                      </div>
+                      <div n="comment">
+                          <p>κοιλοι τόποι ορῶν</p>
+                      </div>
+                  </div>
+                  <div n="269v_3" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.490@θεσπιδαὲς</p>
+                      </div>
+                      <div n="comment">
+                          <p><choice><abbr>υπ</abbr><expan>ὑπὸ</expan></choice> θεῶν ἀναπτόμενον:</p>
+                      </div>
+                  </div>
+                  <div n="269v_4" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.491@ἀζαλέοιο</p>
+                      </div>
+                      <div n="comment">
+                          <p>ξῆρου</p>
+                      </div>
+                  </div>
+                  <div n="269v_5" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.492@εἰλυφάζει</p>
+                      </div>
+                      <div n="comment">
+                          <p>συστρέφει:</p>
+                      </div>
+                  </div>
                 </body>
             </text>
         </group>

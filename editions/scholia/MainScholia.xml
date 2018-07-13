@@ -1660,12 +1660,45 @@
                                       </p>
                                   </div>
                             </div>
-
-
-
-
-
-
+                            <div n="269v_1" type="scholion">
+                                  <div n="lemma">
+                                        <p>αὐτὰρ ὃ βῆ ρ </p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:484</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          ὅτι <persName n="urn:cite2:hmt:pers:pers15">Ζηνόδοτος</persName> γράφει <q>Πειρέως υἱὸν</q> ἄμετρον ποιῶντον στίχον καὶ παράλογον- ἔστι γὰρ <q><perName n="urn:cite2:hmt:pers:pers980">Πείρως</perName></q> τὸ ὄνομα. νῦν δὲ ἐσχημάτικεν ἀπο τοῦ <q><persName n="urn:cite2:hmt:pers:pers980">Πείρεως</persName></q> ὡς <q><persName n="urn:cite2:hmt:pers:pers119">Μενέλεω</persName></q>. άδηλον δὲ ἡ τοῦ <rs type="ethnic" n="urn:cite2:hmt:place:place70">θραικῶν</rs> ἡγουμένου. ἠ ετέρου τινὸς ὁμωνύμου⁑
+                                      </p>
+                                  </div>
+                            </div>
+                            <div n="269v_2" type="scholion">
+                                  <div n="lemma">
+                                        <p><persName n="urn">Ῥίγμον</persName>-</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:485</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          ὡς ὄρμον εἰς ἰδιώτητα- τὰ γὰρ εἰς <rs type="waw">γμὸς</rs> λήγοντα πάντα ὠξύνετο- <q>ἀγμός</q> <q>ψυγμός</q> <q>λυγμός</q>. δοκεῖ δὲ τὸ <q>ὄγμος</q> ἀντικεῖσθαι <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:20.497</ref><q>ῥίμφ' ατε</q></cit>⁑
+                                      </p>
+                                  </div>
+                            </div>
+                            <div n="269v_3" type="scholion">
+                                  <div n="lemma">
+                                        <p>ὑπὸ ποσσ\ ἐριμύκων-</p>
+                                  </div>
+                                  <div n="ref">
+                                        <p>urn:cts:greekLit:tlg0012.tlg001:497</p>
+                                  </div>
+                                  <div n="comment">
+                                        <p>
+                                          οὐκ αναστρεπτέον τὴν πρόθεσιν ἔχει γὰρ σύνταχιν προς τὴν ἐπιφερομένην δοτικὴν τὴν <q>ποσσὶ</q> ὁμοίως τῷ <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:3.13</ref><q>ὡς ἄρα τῶν ὑπο ποσσὶ κονίσαλος ὤρνυτ' ἀελλής</q></cit>⁑
+                                      </p>
+                                  </div>
+                            </div>
                 </body>
             </text>
         </group>
