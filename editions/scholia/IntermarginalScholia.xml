@@ -630,6 +630,43 @@
                               <p><choice><abbr>γρ</abbr><expan>γράφεται</expan></choice> <q>νῦν αὐτοὺς ἄλλους</q>⁑</p>
                           </div>
                       </div>
+
+                      <div n="269r_1" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.458</p>
+                          </div>
+                          <div n="comment">
+                              <p>κατεσχε τοῦ φυγειν</p>
+                          </div>
+                      </div>
+
+                      <div n="269r_2" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.461</p>
+                          </div>
+                          <div n="comment">
+                              <p><choice><abbr>βραχ</abbr><expan>βραχὺ</expan></choice> <choice><abbr>διασταλτ</abbr><expan>διασταλτέον</expan></choice> ἐπι τὸ <q>ἐφορμηθεις</q>⁑</p>
+                          </div>
+                      </div>
+
+                      <div n="269r_3" type="scholion">
+                          <div n="lemma">
+                              <p></p>
+                          </div>
+                          <div n="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001:20.473</p>
+                          </div>
+                          <div n="comment">
+                              <p><choice><abbr>γρ</abbr><expan>γράφεται</expan></choice> καὶ <q>κατ οὗς</q>⁑</p>
+                          </div>
+                      </div>
+
                 </body>
             </text>
         </group>

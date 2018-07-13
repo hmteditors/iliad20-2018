@@ -265,6 +265,32 @@
               </div>
           </div>
 
+
+
+          <div n="269r_1" type="scholion">
+              <div n="lemma">
+                  <p></p>
+              </div>
+              <div n="ref">
+                  <p>urn:cts:greekLit:tlg0012.tlg001:20.473</p>
+              </div>
+              <div n="comment">
+                  <p><q>κατ' οῦς</q></p>
+              </div>
+          </div>
+
+          <div n="269r_2" type="scholion">
+              <div n="lemma">
+                  <p></p>
+              </div>
+              <div n="ref">
+                  <p>urn:cts:greekLit:tlg0012.tlg001:20.479</p>
+              </div>
+              <div n="comment">
+                  <p><q>τόν γε.</q></p>
+              </div>
+          </div>
+
         </body>
       </text>
     </group>

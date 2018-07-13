@@ -14,6 +14,7 @@
                 <author>Olivia Monster</author>
                 <author>Chrissy Hicks</author>
                 <author>Michael Raheb</author>
+                <author>Richard Ciolek</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
@@ -296,6 +297,47 @@
                           <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <choice><abbr>αντ</abbr><expan>ἀντὶ</expan></choice> ᾧ εοίκασι εὔχεσθαι <choice><abbr>παραγινομε</abbr><expan>παραγινόμενος</expan></choice> εἰς πόλεμον ⁑</p>
                       </div>
                   </div>
+
+                  <div n="269r_1" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.462</p>
+                      </div>
+                      <div n="comment">
+                          <p><choice><abbr>οτ</abbr><expan>ὅτι</expan></choice> <q>πάλιν</q> ἀντιδιεστειλεν⁑</p>
+                      </div>
+                  </div>
+
+                  <div n="269r_2" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.467</p>
+                      </div>
+                      <div n="comment">
+                          <p>οὐ γάρ τις καὶ οὐ γαρ έτι</p>
+                      </div>
+                  </div>
+
+                  <div n="269r_3" type="scholion">
+                      <div n="lemma">
+                          <p></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001:20.470</p>
+                      </div>
+                      <div n="comment">
+                          <p><persName n= "urn:cite2:hmt:pers.v1:pers16"><choice><abbr>αρισταρχ</abbr><expan>Ἀρίσταρχος</expan></choice></persName> <q>ἐνέπρησεν</q>⁑</p>
+                      </div>
+                  </div>
+
+
+
+
+
                 </body>
             </text>
         </group>
